@@ -2,7 +2,7 @@
 
 **Passionate QA Engineer specializing in automated and manual testing. Focused on finding bugs early, optimizing test coverage, and ensuring high-quality software delivery.**
 
-🌐 **Links:** LinkedIn Profile(https://www.linkedin.com/in/markanthonypalma/) | palma.markanthony@gmail.com
+🌐 **Links:** [LinkedIn Profile](https://www.linkedin.com/in/markanthonypalma/) | palma.markanthony@gmail.com
 
 💻 **Tech Stack & Tools:** Playwright, Dart, Postman, Python, TypeScript, JavaScript, Git, JIRA, Jenkins
 
@@ -41,7 +41,7 @@ During stress testing of the cart module, I uncovered a **race condition bug** w
 ### 2. Manual Testing & Exploratory Testing Artifacts
 * **Tools:** JIRA, Confluence, Xray / Zephyr
 * **Summary:** Conducted exhaustive cross-browser exploratory testing for a responsive SaaS dashboard. Created a robust, reusable master test plan, executed over 150 test cases, and mapped out an extensive traceability matrix linking requirements to test artifacts.
-* **Artifacts Included:** [Link to Sample Test Plan PDF / Markdown] | [Link to Sample Bug Report Template]
+* **Artifacts Included:** [Link to Sample Test Plan](https://github.com/mark-qa2011/QA-Templates/blob/main/TestPlan-template.md) | [Link to Sample Bug Report Template](https://github.com/mark-qa2011/Bug-ticket-template/blob/main/bug-template.md)
 
 ---
 
