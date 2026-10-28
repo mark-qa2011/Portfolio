@@ -1,6 +1,6 @@
-# 🛠️ [Mark Anthony Palma] | QA Test Engineer Portfolio
+# 🛠️ Mark Anthony Palma | QA Test Engineer Portfolio
 
-> **Passionate QA Engineer specializing in automated and manual testing. Focused on finding bugs early, optimizing test coverage, and ensuring high-quality software delivery.**
+**Passionate QA Engineer specializing in automated and manual testing. Focused on finding bugs early, optimizing test coverage, and ensuring high-quality software delivery.**
 
 🌐 **Links:** LinkedIn Profile(https://www.linkedin.com/in/markanthonypalma/) | palma.markanthony@gmail.com
 
@@ -9,8 +9,8 @@
 ---
 
 ## 🚀 Featured Project: E-Commerce Platform Test Automation Suite
-**Project Link:** [Link]
-
+<!-- **Project Link:** [Link]
+-->
 ### 📋 Project Overview
 Designed and executed an end-to-end automated testing framework for a mock e-commerce platform. The objective was to eliminate repetitive manual regression testing for the checkout funnel, which reduced release regression testing time by **60%**.
 
